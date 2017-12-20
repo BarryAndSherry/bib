@@ -1,0 +1,4 @@
+* 张拉整体动力学
+** [[/home/wl/Workspace/thesis_program/resource/bib/pdfs/Ji2011.pdf][纪红那论文]]
+*** 什么是完整系统?
+*** 建立广义坐标。
